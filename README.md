@@ -1,4 +1,4 @@
-# Prediction-of-skiils-and-job-profile-based-on-Description
+# Prediction-of-skills-and-job-profile-based-on-Description
 The given data comprises of the “Title” and “Description” using which you will create a multilabel classification system. Preferably implementing Deep Neural Networks to classify skills based on the description of the job title. Input will be the “Description” of any job and required output is the skill set, domain &amp; job title pertaining to the input description by the user.
 
 
